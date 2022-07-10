@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lu-Smith
-- 👀 I’m interested in a job as a React web developer
-- 🌱 I’m currently learning Styled Component and JavaScript animations
+- 👀 I’m interested in a job as a Junior web developer
+- 🌱 I’m currently learning Angular and TypeScript
 - 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me: www.lunasmithart.com
 
