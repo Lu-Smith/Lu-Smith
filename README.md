@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lu-Smith
 - 👀 I’m interested in a job as a Junior web developer
-- 🌱 I’m currently learning Angular and TypeScript
-- 💞️ I’m looking to collaborate on React projects
+- 🌱 I’m currently learning C# 
+- 💞️ I’m looking to collaborate on React and JavaScript projects
 - 📫 How to reach me: www.lunasmithart.com
 
 <!---
