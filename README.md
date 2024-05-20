@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lu-Smith
 - 👀 I’m interested in web developer jobs
-- 🌱 I’m currently learning C++ 
+- 🌱 I’m currently learning Python and AI
 - 💞️ I’m looking to collaborate on React, Vue and JavaScript projects
 - 📫 How to reach me: www.lunasmithart.com
 
