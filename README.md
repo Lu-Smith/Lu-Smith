@@ -12,7 +12,7 @@ I'm a passionate **web developer** with a unique background in **fine arts**, bl
 - **Personal Projects**: Constantly working on mini-games and interactive apps to sharpen my skills.
 
 ### 🔧 Technologies & Tools I Work With:
-- **Languages**: JavaScript, TypeScript, Python, HTML, CSS, SASS
+- **Languages**: JavaScript, C#, TypeScript, Python, HTML, CSS, SASS
 - **Frameworks & Libraries**: React, Vue, Tailwind, Bootstrap, Styled Components
 - **Other**: Git, GitHub, Jest & Unit Testing, Canvas Animation, MySQL
 - **Tools**: Visual Studio Code, Figma, Adobe Creative Suite
